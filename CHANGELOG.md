@@ -2,6 +2,14 @@
 
 ## Untagged
 
+## [1.4.0](https://www.github.com/GoogleCloudPlatform/professional-services-data-validator/compare/v1.3.2...v1.4.0) (2021-07-22)
+
+
+### Features
+
+* Issue262 impala connect ([#281](https://www.github.com/GoogleCloudPlatform/professional-services-data-validator/issues/281)) ([eaa052f](https://www.github.com/GoogleCloudPlatform/professional-services-data-validator/commit/eaa052f8b003899857fe2c8a47afaeee33e7ffd3))
+* logic to deploy dvt on Cloud Run ([#280](https://www.github.com/GoogleCloudPlatform/professional-services-data-validator/issues/280)) ([9076286](https://www.github.com/GoogleCloudPlatform/professional-services-data-validator/commit/90762862b476d7fba531affa4f35985a51add0e4))
+
 ### [1.3.2](https://www.github.com/GoogleCloudPlatform/professional-services-data-validator/compare/v1.3.1...v1.3.2) (2021-06-29)
 
 
